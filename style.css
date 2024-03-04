@@ -1,0 +1,38 @@
+body {
+    font-size: 15pt;
+    background-color: 	#b3f0ff;
+    
+}
+
+.istuff{
+  position: absolute;
+  left: 25%;
+  margin: 30px;
+}
+
+
+#Yesbtn{
+  height: 35px;
+  width:75px;
+  background-color: limegreen;
+  border-radius: 15px;
+  padding: 5px;
+  
+  
+
+}
+#Nobtn{
+  height: 35px;
+  width:75px;
+  background-color: red ;
+  border-radius: 15px;
+  padding: 5px;
+  
+  
+
+}
+
+#para{
+  color: red;
+}
+
