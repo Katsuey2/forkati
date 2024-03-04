@@ -1,11 +1,12 @@
-let userInput = document.getElementById('input')
-let text;
-let button = document.getElementById('submit')
+
+let Yes= document.getElementById('Ty')
 
 
-button.onclick = function() {
-   result = userInput.value
-  text = document.getElementById('h1').textContent = `HI MY BABY LOVE ${result}!!!`
+Yes.onclick = function(){
+  thankyou = document.getElementById('para2').textContent 
+  = "jdjfjgmtntktkgkgkgkgigihigkgigk"
+  
 }
+
 
 
